@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/macbunny/Documents/KTH_Academics/First_Term/Advanced Algorithms/Group_Project_TSP/TSP"/>
+	</list>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/macbunny/Desktop/KTH_Academics/First_Term/Advanced Algorithms/Group_Project_TSP/Christofides_Sashi/Christofides"/>
+			<item value="/Users/macbunny/Desktop/KTH_Academics/First_Term/Advanced Algorithms/Group_Project_TSP/TSP_Naive"/>
+			<item value="/Users/macbunny/Desktop/KTH_Academics/First_Term/Advanced Algorithms/Group_Project_TSP/TSP_Anealing"/>
+			<item value="/Users/macbunny/Desktop/KTH_Academics/First_Term/Advanced Algorithms/Group_Project_TSP/Christofides"/>
+			<item value="/Users/macbunny/Documents/workspace/StringAnagram"/>
+			<item value="/Users/macbunny/Documents/KTH_Academics/First_Term/AI/Workspace/HMM"/>
+		</list>
+	</section>
+</section>
